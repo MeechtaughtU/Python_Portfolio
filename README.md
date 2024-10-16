@@ -21,5 +21,5 @@ Technologies Used
 Languages: Python, Shell scripting
 Tools: Jupyter Notebook, Beautiful Soup (for web scraping)
 Contact
-Feel free to reach out for collaboration or feedback via [Your Email Address].
+Feel free to reach out for collaboration or feedback via [tdsimms84@gmail.com].
 
