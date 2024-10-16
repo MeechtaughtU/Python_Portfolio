@@ -13,7 +13,7 @@ Getting Started
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/MeechtaughtU/TsimmsPortfolio.git
+git clone https://github.com/MeechtaughtU/Python_Portfolio.git
 Install dependencies:
 Make sure you have Python installed and run:
 bash
